@@ -8,6 +8,8 @@ categories: jekyll update
 
 McKinsey's B2B sales case studies show how targeted AI deployment can transform relationship-focused "farmers" into proactive "hunters" while delivering measurable results.
 
+<!--more-->
+
 While many organizations are in early implementation stages, industry leaders are scaling these capabilities across their operations, transforming growth strategies and seller effectiveness through comprehensive AI solutions.
 
 • Industrial Materials: AI-powered analysis of construction permit data generated $1B+ in opportunities (10% pipeline growth) and doubled click-through rates within one year, replacing manual site visits

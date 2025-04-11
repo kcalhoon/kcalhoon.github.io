@@ -1,0 +1,37 @@
+---
+---
+
+@import "minima";
+
+// Add your custom styles here
+.read-more-button {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #2a7ae2;
+  color: white;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.read-more-button:hover {
+  background-color: #1756a9;
+  text-decoration: none;
+}
+
+.post-navigation {
+  margin-bottom: 20px;
+}
+
+.back-link {
+  display: none; /* Hidden by default */
+  font-size: 16px;
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+  color: #1756a9;
+}
