@@ -16,12 +16,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v4
-      - uses: ruby/setup-ruby@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        with:
+          enablement: true  # This will enable GitHub Pages if not already enabled
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
@@ -32,6 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
