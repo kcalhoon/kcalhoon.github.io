@@ -14,7 +14,7 @@ tags:
 
 I took inspiration in building GitHub Pages from Simon Willison's [blog post](https://til.simonwillison.net/github-actions/github-pages). Jekyll provides some simple templates. 
 
-However, installing Ruby, Gem, and Jekyll on my local machine (Mac PowerBook Pro) did not go well. I almost gave up.
+However, installing Ruby, Gem, and Jekyll on my local machine (Mac PowerBook Pro M1) did not go well. I almost gave up.
 
 Then I stumbled upon a way to build the site using GitHub codespaces and it worked like a charm. 
 
