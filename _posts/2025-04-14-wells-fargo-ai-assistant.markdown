@@ -1,9 +1,8 @@
 ---
-#layout: post
 title:  "Wells Fargo demonstrates enterprise AI success"
-date:   2025-04-14 12:30:16 +0000
+date:   2025-04-14 12:30:16 -0700 (PDT)
 categories: 
-  - ai-implementation
+  - AI-implementation
 tags:
   - banking
   - b2c

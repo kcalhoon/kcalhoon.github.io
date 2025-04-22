@@ -1,7 +1,8 @@
 ---
 title: "KPMG Q1 2025 AI Pulse"
+date: 2025-04-21 17:30:35 -0700 (PDT)
 categories:
-  - Blog
+  - blog
 tags:
   - KPMG
   - state-of-ai

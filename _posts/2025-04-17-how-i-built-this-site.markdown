@@ -1,8 +1,8 @@
 ---
 title: "How I built this GitHub pages site using Codespace"
-date:   2025-04-17 17:30:16 +0000
+date:   2025-04-17 17:30:16 -0700 (PDT)
 categories:
-  - Projects
+  - projects
 tags:
   - website
   - codespaces
