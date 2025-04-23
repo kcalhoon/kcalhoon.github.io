@@ -7,7 +7,6 @@ tags:
   - banking
   - b2c
   - customer-support
-classes: wide
 ---
 
 Wells Fargo demonstrates enterprise AI success with 245 million secure customer interactions in 2024.
