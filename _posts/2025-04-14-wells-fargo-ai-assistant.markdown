@@ -15,16 +15,19 @@ Wells Fargo's AI assistant Fargo has shown remarkable adoption since launch. Spa
 
 <!--more-->
 
+![VentureBeat](/assets/images/wells_fargo_ai_assistant.png)
 The company achieved this by architecting for privacy and performance, providing valuable lessons for enterprises:
 
-• Success criteria: An AI banking assistant must preserve privacy, scale effectively, maintain accuracy, and drive customer satisfaction simultaneously.
+* Success criteria: An AI banking assistant must preserve privacy, scale effectively, maintain accuracy, and drive customer satisfaction simultaneously.
 
-• Privacy first: Wells Fargo operates a privacy-first pipeline where sensitive computations happen internally, using external LLMs only as needed.
+* Privacy first: Wells Fargo operates a privacy-first pipeline where sensitive computations happen internally, using external LLMs only as needed.
 
-• Right model, right job: They employ a small language model for PII detection, orchestration, and intent reaction. Google's Flash 2.0 (and its large context window) determines user intent without seeing sensitive data.
+* Right model, right job: They employ a small language model for PII detection, orchestration, and intent reaction. Google's Flash 2.0 (and its large context window) determines user intent without seeing sensitive data.
 
-• Agent orchestration: An orchestration layer selects appropriate models per task, with multiple safeguards before external model interaction.
+* Agent orchestration: An orchestration layer selects appropriate models per task, with multiple safeguards before external model interaction.
 
-• Flexibility: Wells Fargo maintains a "poly-model and poly-cloud" approach. They've made changes in the past couple of years and will likely continue to do so.
+* Flexibility: Wells Fargo maintains a "poly-model and poly-cloud" approach. They've made changes in the past couple of years and will likely continue to do so.
 
 In a landscape where AI prototypes struggle to scale, Wells Fargo demonstrates security at volume while enhancing service accessibility across language barriers.
+
+[link](https://venturebeat.com/ai/wells-fargos-google-llm-driven-assistant-may-reach-100-million-interactions-per-year/)
