@@ -17,6 +17,8 @@ As AI transitions from experimental to operational, we're seeing investments acr
 
 Jon Victor provides a helpful chart in his Applied AI newsletter organizing 30 AI applications from Widely Adopted to Experimental. Applications on the right cover universal functions like customer support and marketing, while those on the left are domain- and company-specific.
 
+![Source: Jon Victor](assets/images/ai_use_cases_applied_ai.png)
+
 Leading companies aren't making isolated AI bets—they're investing in projects yielding returns both today and tomorrow. Executive teams should assess AI initiatives with four questions:
 
 * How do our AI activities map on this grid?
