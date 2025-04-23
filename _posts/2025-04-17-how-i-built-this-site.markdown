@@ -53,12 +53,11 @@ bundle exec jekyll serve --livereload
 
 9. You should see a site like below. You can click around to see the different features and templates. 
 
-![Site rendered locally](assets/images/site_screenshot.png)
+![Site rendered locally](/assets/images/site_screenshot.png)
 
 10. Go back to the codespace terminal, expand the folders and you can see the files for the pages, posts, images, etc. The various files will provide hints on how to customize the site.
 
-![Folder structure in Codespaces](./assets/images/site_folder_structure.png)
-<img src="assets/images/site_folder_structure.png" alt="Folder structure in Codespace">
+![Folder structure in Codespaces](/assets/images/site_folder_structure.png)
 
 11. Use the Minimal Mistakes [site](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) and the Jekyll [site](https://jekyllrb.com/docs/) to configure and customize the site.
 

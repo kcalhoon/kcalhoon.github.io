@@ -2,13 +2,12 @@
 title: "KPMG Q1 2025 AI Pulse"
 date: 2025-04-21 17:30:35 -0700 (PDT)
 categories:
-  - blog
+  - state-of-ai
 tags:
   - KPMG
   - state-of-ai
 link: https://kpmg.com/us/en/media/news/q1-ai-pulse-2025.html
 ---
-
 
 > 93% of leaders agree that investments to-date in GenAI have allowed their company to enhance its competitive position and long-term strategic performance.
 
