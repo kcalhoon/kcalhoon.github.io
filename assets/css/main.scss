@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes";
+
+// Target only the main content area, preserving the sidebar
+.archive, 
+.page__content {
+  @media (min-width: 80em) {  // Large screens only
+    width: calc(100% - 200px);
+    padding-right: 1em;
+  }
+}
+
+// Ensure consistent container widths
+.container {
+  width: 100%;
+  max-width: 1280px;  // Adjust this value as needed
+  margin: 0 auto;
+}
