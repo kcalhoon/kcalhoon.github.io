@@ -1,5 +1,5 @@
 ---
-title:  "Seven ways generative AI drives B2B sales growth"
+title:  "What gets measured, gets done: Shopify makes AI usage mandatory"
 date:   2025-04-09 12:30:16 -0700 (PDT)
 categories: 
   - change management
