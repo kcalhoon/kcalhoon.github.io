@@ -15,7 +15,7 @@ McKinsey's B2B sales case studies show how targeted AI deployment can transform 
 
 While many organizations are in early implementation stages, industry leaders are scaling these capabilities across their operations, transforming growth strategies and seller effectiveness through comprehensive AI solutions.
 
-![McKinsey](/assets/images/mckinsey_b2b_sales_cycle.png){:height="875px" width="500px"}
+![McKinsey](/assets/images/mckinsey_b2b_sales_cycle.png)
 
 * Industrial Materials: AI-powered analysis of construction permit data generated $1B+ in opportunities (10% pipeline growth) and doubled click-through rates within one year, replacing manual site visits
 
