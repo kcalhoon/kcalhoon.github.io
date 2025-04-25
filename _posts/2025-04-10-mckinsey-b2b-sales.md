@@ -1,5 +1,5 @@
 ---
-title:  "Seven ways generative AI drives B2B sales growth"
+title:  "Seven ways generative AI drives B2B sales growth. McKinsey"
 date:   2025-04-10 12:30:16 -0700 (PDT)
 categories: 
   - AI-implementation

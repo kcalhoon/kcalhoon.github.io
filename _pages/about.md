@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I help organizations unlock value through data and AI implementation. Drawing from my experience at Bain, eBay, Mitsubishi, Forrester, and Ritchie Bros, I bring a blend of global business acumen and hands-on AI expertise to every engagement.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My approach aligns data science strategy with business objectives, emphasizing the human and process components that drive AI success. I build sustainable results through diligence and continuous improvement, helping clients identify high-impact use cases that deliver measurable ROI.
+
+I have an MBA from Harvard, a Graduate Certificate in Data Mining from Stanford, and an undergraduate degree from Pomona College.
+
+Contact me through [LinkedIn](https://www.linkedin.com/in/kencalhoon)

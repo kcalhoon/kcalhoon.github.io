@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Ken Calhoon"
-  avatar : "assets/images/ken_headshot_mohawk.jpg"
-  bio    : "Bridging Business Strategy & ML/AI Implementation"
+  avatar : "/assets/images/ken_headshot_mohawk.jpg"
+  bio    : "Business-focused AI transformation advisor"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
