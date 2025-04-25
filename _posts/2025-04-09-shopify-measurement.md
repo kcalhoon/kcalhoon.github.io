@@ -13,7 +13,7 @@ Shopify's CEO Tobi Lütke has made AI a survival requirement. With Q4 2024 reven
 
 <!--more-->
 
-[Shopify CEO](/assets/images/shopify_ceo_quote.png)
+![Shopify CEO](/assets/images/shopify_ceo_quote.png)
 
 Success demands extensive use, not casual experimentation. His mandate: AI usage factors in performance reviews, teams must justify why AI can't handle tasks before requesting headcount, and these standards apply across all levels, executive suite included. The company integrates AI in monthly reviews and product cycles, with employees sharing successes, for example, via Slack. 
 
