@@ -11,6 +11,6 @@ tags:
   - Rechat.com
   - domain-specific
 ---
-![Rechat.com LLM error rate reduction](/assets/images/rechat_error_rate_reduction_evals.png){:height="70px" width="40px"} Success with LLM systems takes work. Very helpful [short video](https://youtu.be/eLXF0VojuSs) on the experience implementing evals at Rechat.com.
+Success with LLM systems takes work. Very helpful [short video](https://youtu.be/eLXF0VojuSs) on the experience implementing evals at Rechat.com.
 
 ![Rechat.com LLM error rate reduction](/assets/images/rechat_error_rate_reduction_evals.png){:height="700px" width="400px"}
