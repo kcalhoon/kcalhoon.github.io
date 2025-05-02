@@ -1,5 +1,5 @@
 ---
-title: "Distillation 50 "top" AI vendors from 1,861? Forbes, Sequoia, Meritech"
+title: "Distillation of the 50 'top' AI vendors? Forbes, Sequoia, Meritech"
 date: 2025-04-25 07:30:01 -0700 (PDT)
 categories: 
   - AI vendors
@@ -20,6 +20,6 @@ I was initially skeptical about this top 50 list produced by Forbes, Sequoia, an
 
 Surely not definitive, but it is a helpful starting point as enterprises make sense of the AI vendor landscape.  
 
-[Sequoia market map](https://www.sequoiacap.com/article/ai-50-2025/)
-[Forbes summary](https://www.forbes.com/lists/ai50/)
-[Forbes top 50 methodogoy](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/)
+[Sequoia market map](https://www.sequoiacap.com/article/ai-50-2025/){:target="_blank" rel="noopener noreferrer"}
+[Forbes summary](https://www.forbes.com/lists/ai50/){:target="_blank" rel="noopener noreferrer"}
+[Forbes top 50 methodogoy](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/){:target="_blank" rel="noopener noreferrer"}

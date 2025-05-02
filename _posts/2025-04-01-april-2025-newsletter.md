@@ -1,5 +1,5 @@
 ---
-title:  "The Blooming of AI-Enabled Business Ventures"
+title:  "April 2025 Newsletter: The Blooming of AI-Enabled Business Ventures"
 date:   2025-04-01 07:00:00 -0700 (PDT)
 categories: 
   - newsletter

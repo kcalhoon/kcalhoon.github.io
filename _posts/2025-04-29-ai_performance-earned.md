@@ -1,5 +1,5 @@
 ---
-title: "AI performance earned, not given"
+title: "How to achieve strong AI performance — diligence"
 date: 2025-04-28 10:15:50 +0000
 categories: 
   - production-AI
