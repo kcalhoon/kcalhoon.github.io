@@ -1,0 +1,9 @@
+[Forbes top 50 methodology](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/){:target="_blank" rel="noopener noreferrer"}
+
+![Rechat.com LLM error rate reduction](/assets/images/rechat_error_rate_reduction_evals.png){:height="700px" width="400px"}
+
+with border
+![Reconstructing Structured Data from Templatized Documents]({% link assets/images/ucb_epic_lab_TWIX_flow.jpg %}){: style="border: 1px solid #2E8B57;"}
+
+with border and image dimension
+![Reconstructing Structured Data from Templatized Documents]({% link assets/images/ucb_epic_lab_TWIX_flow.jpg %}){: style="border: 1px solid #2E8B57; height:700px; width:400px;"}

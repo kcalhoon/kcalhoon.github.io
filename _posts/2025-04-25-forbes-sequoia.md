@@ -22,4 +22,4 @@ Surely not definitive, but it is a helpful starting point as enterprises make se
 
 [Sequoia market map](https://www.sequoiacap.com/article/ai-50-2025/){:target="_blank" rel="noopener noreferrer"}
 [Forbes summary](https://www.forbes.com/lists/ai50/){:target="_blank" rel="noopener noreferrer"}
-[Forbes top 50 methodogoy](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/){:target="_blank" rel="noopener noreferrer"}
+[Forbes top 50 methodology](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/){:target="_blank" rel="noopener noreferrer"}
