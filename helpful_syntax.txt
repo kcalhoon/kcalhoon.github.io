@@ -10,3 +10,10 @@ with border
 
 with border and image dimension
 ![Reconstructing Structured Data from Templatized Documents]({% link assets/images/ucb_epic_lab_TWIX_flow.jpg %}){: style="border: 1px solid #2E8B57; height:700px; width:400px;"}
+
+with border and caption
+![Vectara Hallucination Leaderboard]({% link assets/images/vectara_hallucination_leaderboard.png %}){: style="border: 1px solid #2E8B57;"}
+
+<p style="text-align: center; font-size: 0.9em; color: #555;">
+  Vectara Hallucination Leaderboard
+</p>
