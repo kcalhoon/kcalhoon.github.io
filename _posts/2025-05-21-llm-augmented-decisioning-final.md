@@ -1,5 +1,5 @@
 ---
-title: "Leading enterprises aren't scrapping their proven systems for AI—they're creating powerful hybrids that outperform either approach alone."
+title: "Leading enterprises aren't scrapping their proven systems for AI — they're creating powerful hybrids that outperform either approach alone"
 date: 2025-05-21 09:04:20 +0000
 categories: 
   - AI-implementation

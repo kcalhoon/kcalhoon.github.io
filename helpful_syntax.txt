@@ -17,3 +17,7 @@ with border and caption
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Vectara Hallucination Leaderboard
 </p>
+
+linking to other posts — there are multiple methods, but this seems flexible.
+
+[See my post on J&J here]({% post_url 2025-04-22-ai-portfolio %})
