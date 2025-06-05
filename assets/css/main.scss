@@ -56,8 +56,8 @@
   }
 }
 
-// Fix overlap on wide screens  
-@media (min-width: 80em) {
+// Fix for wide screens (80em to 97em / ~1280px to ~1550px)
+@media (min-width: 80em) and (max-width: 97em) {
   .sidebar {
     width: 200px !important;
     margin-right: 2em !important;
@@ -67,6 +67,18 @@
     width: calc(100% - 240px) !important;
     float: right !important;
     margin-left: 0 !important;
+  }
+  
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+
+// Fix for ultra-wide screens (97em+ / 1550px+) - just adjust widths, let theme handle positioning
+@media (min-width: 97em) {
+  .main {
+    width: calc(100% - 280px) !important;
   }
   
   .page__content {
