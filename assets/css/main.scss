@@ -4,24 +4,87 @@
 
 @import "minimal-mistakes";
 
-// Target only the main content area, preserving the sidebar
-.archive, 
-.page__content {
-  @media (min-width: 80em) {  // Large screens only
-    width: calc(100% - 200px);
-    padding-right: 1em;
+// Fix for medium screens - move author info to top with photo
+@media (min-width: 64em) and (max-width: 80em) {
+  .sidebar {
+    position: static !important;
+    width: 100% !important;
+    float: none !important;
+    margin-bottom: 2em !important;
+    transform: none !important;
+  }
+  
+  .main {
+    width: 100% !important;
+    float: none !important;
+    margin-left: 0 !important;
+  }
+  
+  .author__avatar {
+    display: table-cell !important;
+    vertical-align: top !important;
+    width: 60px !important;
+    height: 60px !important;
+  }
+  
+  .author__avatar img {
+    display: block !important;
+    width: 60px !important;
+    height: 60px !important;
+    border-radius: 50% !important;
+  }
+  
+  .author__content {
+    display: table-cell !important;
+    vertical-align: top !important;
+    padding-left: 15px !important;
+    padding-right: 25px !important;
+  }
+  
+  .author__name {
+    margin: 0 !important;
+    font-size: 1.2em !important;
+  }
+  
+  .author__bio {
+    margin: 0 !important;
+    font-size: 0.9em !important;
+  }
+  
+  .author__urls {
+    margin-top: 5px !important;
+  }
+}
+
+// Fix overlap on wide screens  
+@media (min-width: 80em) {
+  .sidebar {
+    width: 200px !important;
+    margin-right: 2em !important;
+  }
+  
+  .main {
+    width: calc(100% - 240px) !important;
+    float: right !important;
+    margin-left: 0 !important;
+  }
+  
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
   }
 }
 
 // Ensure consistent container widths
 .container {
   width: 100%;
-  max-width: 1280px;  // Adjust this value as needed
+  max-width: 1280px;
   margin: 0 auto;
 }
 
+// Your existing image caption styling
 img + em {
   display: block;
   text-align: center;
-  font-size: 0.75em; /* Reduces the font size to 90% of the parent element's font size */
+  font-size: 0.75em;
 }

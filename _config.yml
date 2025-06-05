@@ -62,6 +62,7 @@ author:
   name   : "Ken Calhoon"
   avatar : "/assets/images/ken_headshot_mohawk.jpg"
   bio    : "Business-focused AI transformation advisor"
+  url    : "/about/"  # Add this line
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
