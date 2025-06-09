@@ -1,100 +1,102 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-// Fix for medium screens - move author info to top with photo
+/* Fix for medium screens - move author info to top with photo */
 @media (min-width: 64em) and (max-width: 80em) {
   .sidebar {
-    position: static !important;
-    width: 100% !important;
-    float: none !important;
-    margin-bottom: 2em !important;
-    transform: none !important;
+    position: static;
+    width: 100%;
+    float: none;
+    margin-bottom: 2em;
+    transform: none;
   }
   
   .main {
-    width: 100% !important;
-    float: none !important;
-    margin-left: 0 !important;
+    width: 100%;
+    float: none;
+    margin-left: 0;
   }
   
   .author__avatar {
-    display: table-cell !important;
-    vertical-align: top !important;
-    width: 60px !important;
-    height: 60px !important;
+    display: table-cell;
+    vertical-align: top;
+    width: 60px;
+    height: 60px;
   }
   
   .author__avatar img {
-    display: block !important;
-    width: 60px !important;
-    height: 60px !important;
-    border-radius: 50% !important;
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
   }
   
   .author__content {
-    display: table-cell !important;
-    vertical-align: top !important;
-    padding-left: 15px !important;
-    padding-right: 25px !important;
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 25px;
   }
   
   .author__name {
-    margin: 0 !important;
-    font-size: 1.2em !important;
+    margin: 0;
+    font-size: 1.2em;
   }
   
   .author__bio {
-    margin: 0 !important;
-    font-size: 0.9em !important;
+    margin: 0;
+    font-size: 0.9em;
   }
   
   .author__urls {
-    margin-top: 5px !important;
+    margin-top: 5px;
   }
 }
 
-// Fix for wide screens (80em to 97em / ~1280px to ~1550px)
+/* Fix for wide screens */
 @media (min-width: 80em) and (max-width: 97em) {
   .sidebar {
-    width: 200px !important;
-    margin-right: 2em !important;
+    width: 200px;
+    margin-right: 2em;
   }
   
   .main {
-    width: calc(100% - 240px) !important;
-    float: right !important;
-    margin-left: 0 !important;
+    width: calc(100% - 240px);
+    float: right;
+    margin-left: 0;
   }
   
   .page__content {
-    width: 100% !important;
-    max-width: none !important;
+    width: 100%;
+    max-width: none;
   }
 }
 
-// Fix for ultra-wide screens (97em+ / 1550px+) - just adjust widths, let theme handle positioning
+/* Fix for ultra-wide screens */
 @media (min-width: 97em) {
   .main {
-    width: calc(100% - 280px) !important;
+    width: calc(100% - 280px);
   }
   
   .page__content {
-    width: 100% !important;
-    max-width: none !important;
+    width: 100%;
+    max-width: none;
   }
 }
 
-// Ensure consistent container widths
+/* Ensure consistent container widths */
 .container {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
 }
 
-// Your existing image caption styling
+/* Image caption styling */
 img + em {
   display: block;
   text-align: center;
