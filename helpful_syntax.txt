@@ -3,6 +3,9 @@ bundle exec jekyll serve --livereload
 
 [Forbes top 50 methodology](https://www.forbes.com/sites/elisabethbrier/2025/04/10/how-forbes-compiled-the-2025-ai-50-list/){:target="_blank" rel="noopener noreferrer"}
 
+Add this to ensure a link spawns a new tab: {:target="_blank"} 
+{:target="_blank"} 
+
 ![Rechat.com LLM error rate reduction](/assets/images/rechat_error_rate_reduction_evals.png){:height="700px" width="400px"}
 
 with border

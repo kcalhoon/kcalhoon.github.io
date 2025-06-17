@@ -4,6 +4,7 @@ date: 2025-05-01 07:30:00 +0000
 categories: 
   - newsletter
 tags:
+  - Ritchie Bros
   - 
 ---
 At Ritchie Bros, a $4B+ equipment auctioneer, we built an ML system "Algo" to automatically value assets from dollars to $100K+ (think Zillow for excavators). Algo outperformed human appraisers and market models while revaluing thousands of assets daily. The success required years of expert partnerships, model refinement, and integration.
