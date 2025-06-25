@@ -32,7 +32,13 @@ tags:
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Beyond the Hype: AI Gets Strategic - ChatGPT-4o
 </p>
+
 ---
+
+Navigate the AI landscape with my latest newsletter. Get practical insights for executive decisions that deliver business value. To read my future editions subscribe [here](https://www.linkedin.com/newsletters/ken-s-compass-7169019282209583105/){:target="_blank" rel="noopener noreferrer"} and 'follow' me on [LinkedIn](https://www.linkedin.com/in/kencalhoon/){:target="_blank" rel="noopener noreferrer"}
+
+---
+
 Two and a half years since ChatGPT's launch, we're seeing clear signs of enterprise AI maturation. Companies are moving from experimentation to focus, marketing functions are being upended, and organizations have become more strategic about AI deployment. Amid model makers jostling atop LLM leaderboards, the only metrics that matter are those directly tied to business requirements.
 
 ---

@@ -16,7 +16,7 @@ tags:
 *From Accountants to Agents*
 <!--more-->
 
-Welcome to my latest newsletter, where I distill the world of AI to help executives identify strategic opportunities, cut through the hype, and implement proven best practices that drive business value. To read my future editions subscribe [here](https://www.linkedin.com/newsletters/ken-s-compass-7169019282209583105/) and 'follow' me on [LinkedIn](https://www.linkedin.com/in/kencalhoon/)
+Navigate the AI landscape with my latest newsletter. Get practical insights for executive decisions that deliver business value. To read my future editions subscribe [here](https://www.linkedin.com/newsletters/ken-s-compass-7169019282209583105/){:target="_blank" rel="noopener noreferrer"} and 'follow' me on [LinkedIn](https://www.linkedin.com/in/kencalhoon/){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
