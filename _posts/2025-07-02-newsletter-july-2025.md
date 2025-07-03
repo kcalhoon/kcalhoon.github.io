@@ -4,6 +4,25 @@ date: 2025-07-02 16:10:56 +0000
 categories: 
   - newsletter
 tags:
+  - Anthropic
+  - Harvard
+  - Microsoft
+  - OpenAI
+  - BCG
+  - Mary Meeker
+  - McKinsey
+  - Andreessen Horowitz
+  - Apple
+  - Bryan Bischof
+  - IPG
+  - Kinesso
+  - Gemini
+  - Claude
+  - Meta
+  - Mark Zuckerberg
+  - Daniel Gross
+  - Nat Friedman
+  - xAI
   - 
 
 ---
@@ -27,7 +46,7 @@ Federal Judge William Alsup ruled that Anthropic's use of books for model traini
 
 Supporting public domain access, Harvard released one million books comprising 394 million pages through its Institutional Data Initiative, funded by Microsoft and OpenAI. [link](https://apnews.com/article/ai-chatbot-training-data-libraries-idi-e096a81a4fceb2951f232a33ac767f53){:target="_blank" rel="noopener noreferrer"}
 
-Given economic uncertainty, CEOs focus on cost reduction via AI. BCG identifies four high-potential areas: codified knowledge, customer interactions, supply bases, and field forces. Surveying 10,000 workers, BCG found 72% using AI with 47% saving over one hour daily. Mary Meeker returned to publishing with "Trends - Artificial Intellegence" emphasizing the "unprecedented" nature of AI. [link](https://web-assets.bcg.com/d1/df/415a1a324ae8a892ada58c254a9b/bcg-executive-perspectives-driving-sustainable-cost-adv-with-ai-ep15-20may2025.pdf) [link](https://web-assets.bcg.com/fd/0d/bcc5dfae4cbaa08c718b95b16cf5/ai-at-work-2025-slideshow-june-2025-edit-02.pdf){:target="_blank" rel="noopener noreferrer"}
+Given economic uncertainty, CEOs focus on cost reduction via AI. BCG identifies four high-potential areas: codified knowledge, customer interactions, supply bases, and field forces. Surveying 10,000 workers, BCG found 72% using AI with 47% saving over one hour daily. [link](https://web-assets.bcg.com/d1/df/415a1a324ae8a892ada58c254a9b/bcg-executive-perspectives-driving-sustainable-cost-adv-with-ai-ep15-20may2025.pdf) [link](https://web-assets.bcg.com/fd/0d/bcc5dfae4cbaa08c718b95b16cf5/ai-at-work-2025-slideshow-june-2025-edit-02.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ![Tech cycle speed]({% link assets/images/Bond_tech_cycle_speed.png %}){: style="border: 1px solid #2E8B57;"}
 
@@ -43,7 +62,7 @@ McKinsey found 80% of companies have deployed AI initiatives, yet the same propo
 
 Reinforcing this finding, Andreessen Horowitz's survey of 100 CIOs reveals companies increasingly rely on third parties for commoditized use cases like data analysis, enterprise search, and customer support. Enterprises should reserve limited internal AI resources for building differentiated, company-specific applications. [link](https://a16z.com/ai-enterprise-2025/){:target="_blank" rel="noopener noreferrer"}
 
-Apple's experience illustrates the challenge. Despite excitement around "Apple Intelligence," Bloomberg reports the tech giant delivered "meager new AI enhancements." As Bryan Bischof noted: "You can't roadmap what hasn't yet been discovered." AI product development requires hypothesis testing with strong evaluation discipline. [link](https://www.linkedin.com/posts/kencalhoon_you-cant-roadmap-what-hasnt-yet-been-discovered-activity-7343675143497404420-65it){:target="_blank" rel="noopener noreferrer"}
+Apple's experience illustrates the challenge. Despite excitement around "Apple Intelligence," Bloomberg reports the tech giant delivered "meager new AI enhancements." As Bryan Bischof noted: "You can't roadmap what hasn't yet been discovered." AI product development requires hypothesis testing with strong evaluation discipline. [link]({% link _posts/2025-06-25-hypothesis-driven-AI-development.md %})
 
 A key to company-specific applications is evaluating the unique functionality. The advertising giant IPG uses AI for copy generation and has developed assessments through its Kinesso arm to measure text uniqueness across models; the more unique the LLM output, the better. [link](https://www.theinformation.com/articles/enterprises-take-model-evaluation-hands){:target="_blank" rel="noopener noreferrer"}
 
