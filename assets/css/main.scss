@@ -22,6 +22,14 @@
     margin-left: 0;
   }
   
+  /* Ensure content uses full width in this breakpoint */
+  .page__content {
+    max-width: none !important;
+    width: 100%;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  
   .author__avatar {
     display: table-cell;
     vertical-align: top;
@@ -62,11 +70,11 @@
 @media (min-width: 80em) and (max-width: 97em) {
   .sidebar {
     width: 200px;
-    margin-right: 2em;
+    margin-right: 1em; /* Reduced from 2em */
   }
   
   .main {
-    width: calc(100% - 240px);
+    width: calc(100% - 220px); /* Reduced from 240px to use more space */
     float: right;
     margin-left: 0;
   }
@@ -74,26 +82,41 @@
   .page__content {
     width: 100%;
     max-width: none;
+    margin-right: 0; /* Remove any right margin */
+    padding-right: 1em; /* Just a bit of spacing from edge */
   }
 }
 
 /* Fix for ultra-wide screens */
 @media (min-width: 97em) {
   .main {
-    width: calc(100% - 280px);
+    width: calc(100% - 250px); /* Reduced from 280px */
   }
   
   .page__content {
     width: 100%;
     max-width: none;
+    margin-right: 0; /* Remove any right margin */
+    padding-right: 1em; /* Just a bit of spacing from edge */
   }
 }
 
-/* Ensure consistent container widths */
-.container {
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
+/* Override theme's content width restrictions to expand content */
+.page__content {
+  max-width: none !important;
+}
+
+/* Additional width expansion for all screen sizes */
+@media (min-width: 48em) {
+  .page {
+    width: 100%;
+    max-width: none;
+  }
+  
+  .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
 }
 
 /* Image caption styling */
