@@ -10,7 +10,7 @@ tags:
 
 # The Enterprise AI Pyramid
 
-Unable to find one graphic that explained all the ways large companies use AI, I built one. The **Enterprise AI Pyramid** plots AI work on three axes — **(1)** how deeply you integrate and govern it, **(2)** how much competitive advantage each layer can create, and **(3)** how many projects you can realistically keep alive. Read bottom-to-top for a roadmap; scan the arrows for the trade-offs.
+Unable to find one graphic that explained the many ways large companies ought to use AI, I built one. The **Enterprise AI Pyramid** plots AI work on three axes — **(1)** how deeply you integrate and govern it, **(2)** how much competitive advantage each layer can create, and **(3)** how many projects you can realistically keep alive. Read bottom-to-top for a roadmap; scan the arrows for the trade-offs.
 
 
 ![Enterprise AI Pyramid – August 2025]({% link assets/images/enterprise_ai_pyramid_20250818.png %})
@@ -32,11 +32,11 @@ Unable to find one graphic that explained all the ways large companies use AI, I
 
 ### 1. Begin at the base — build culture, capability, and ownership
 
-P&G's experiment opening up ChatGPT to its teams is a critical step in developing cultural support for AI usage. Moderna scales up usage, invests, and ensures clever use of AI is not an option but an expectation. J&J has devolved AI ownership away from the center and into its business functions.
+P&G's experiment opening up ChatGPT to its teams is a critical step in developing cultural support for AI usage. Moderna scales up usage, invests, and ensures that clever use of AI is an expectation, not an option. J&J has devolved AI ownership away from the center and into its business functions.
 
 ### 2. Anticipate rapid change — double down on data, APIs, and scarce talent
 
-What takes bespoke code this quarter may be productized next quarter. Smart companies remain flexible while doubling down on what is proprietary. Deloitte has codified its data to deliver new, competitive products. Walmart has created an AI foundry called Element dramatically accelerating and standardizing AI development while avoiding model lock-in ([Walmart](https://corporate.walmart.com/news/2025/06/24/walmart-unveils-new-ai-powered-tools-to-empower-1-5-million-associates)).
+What takes bespoke code this quarter may be productized next quarter. Smart companies remain flexible while doubling down on what is proprietary. Deloitte has codified its data to deliver new, competitive products. Walmart has created an AI foundry called Element that dramatically accelerates and standardizes AI development while avoiding model lock-in ([Walmart](https://corporate.walmart.com/news/2025/06/24/walmart-unveils-new-ai-powered-tools-to-empower-1-5-million-associates)).
 
 ### 3. Maintain a disciplined portfolio — prune fast, scale faster
 
