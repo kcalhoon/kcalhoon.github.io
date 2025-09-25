@@ -29,3 +29,5 @@ Structural keys to CAIO success:
 3.  **They balance rigor with intuition.** The CAIO must manage a core tension. IBM notes that while 72% of executives know their firms risk falling behind without proper AI impact measurement, 68% of CAIOs will still initiate projects based on instinct if the strategic value is high. This requires a leader who can build a business case but also knows which bets to place before the ROI is perfectly clear.
 
 The takeaway: The CAIO is not just an individual. Their success signals the adoption of a more mature, centralized, and accountable operating model for AI—one that is built on the crucial function of translation between business and technology.
+
+[link](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/chief-ai-officer){:target="_blank" rel="noopener noreferrer"}
