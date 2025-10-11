@@ -73,7 +73,7 @@ While frontier models appear to be converging in capability, OpenAI’s GDPval b
 
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
-  AI reaches near-parity on narrow real-world tasks, with model differentiation
+  AI reaches near-parity on narrow real-world tasks, with model differentiation. OpenAI GDPval.
 </p>
 
 A key unlock for data accuracy is emerging with Vision RAG—the ability to interpret visually dense sources such as charts and slides. This capability is improving rapidly, with companies like Cohere making significant strides in faithfully extracting data from complex documents. [link](https://www.linkedin.com/posts/kencalhoon_welcome-vision-rag-vision-rag-is-quietly-activity-7377357869580636160-VuUa){:target="_blank" rel="noopener noreferrer"}
