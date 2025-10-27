@@ -34,7 +34,7 @@ tags:
 
 The tipping point of enterprise implementation seems to have arrived. The models and tools are getting sufficiently good that companies are ready to roll out their agents. Getting it right, executives warn, is about clear ROI, standard operating procedures, infrastructure, and strong evaluation methodologies.
 
-### **Section 1: Adoption Hits an Inflection Point**
+### Adoption Hits an Inflection Point
 
 Citibank is piloting its proprietary agentic platform with 5,000 employees, believing the technology is now reliable enough for complex research tasks across multiple data sources. While capability is clear, calculating precise ROI remains difficult as reasoning model token consumption offsets falling inference costs. [link](https://www.wsj.com/articles/ai-agents-arrive-at-citi-60a3559d?mod=djemCIO){:target="_blank" rel="noopener noreferrer"}
 
