@@ -1,5 +1,5 @@
 ---
-title: "AI boosts GDP through infrastructure spend, not yet productivity"
+title: "November 2025 Newsletter: AI boosts GDP through infrastructure spend, not yet productivity"
 date: 2025-11-06 11:43:35 +0000
 categories: 
   - newsletter
