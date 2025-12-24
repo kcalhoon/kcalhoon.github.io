@@ -9,8 +9,7 @@ tags:
   - ROI
 ---
 
-With CAIOs in centralized models doubling AI production rates and achieving a 36% higher ROI, it's clear why the role's adoption has doubled to 26% in the last year. New research from IBM’s Institute for Business Value breaks down this trend.
-link
+With CAIOs in centralized models doubling AI production rates and achieving a 36% higher ROI, it's clear why the role's adoption has doubled to 26% in the last year. New research from IBM’s Institute for Business Value breaks down this trend. [link](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/chief-ai-officer){:target="_blank" rel="noopener noreferrer"}
 
 This is the formalization of a critical role I've seen firsthand over the past decade as an ML and AI translator. Success has always hinged on bridging the gap between business goals and technical execution. The CAIO role makes this translation function official, empowering it with the mandate to ensure real value is created at scale.
 
