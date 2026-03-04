@@ -29,7 +29,7 @@ tags:
 
 ---
 
-![The $39B AI Market]({% link assets/images/newsletter-2026-01/menlo_ai_spending.png %}){: style="border: 1px solid #2E8B57;"}
+![The $39B AI Market]({% link assets/images/newsletter-2026-01/menlo_ai_spending.png %}){: style="border: 1px solid #2E8B57; width: 67%; display: block; margin: 0 auto;"}
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Source: Menlo Ventures
@@ -45,7 +45,7 @@ Microsoft Copilot leverages corporate data in Teams and SharePoint, but users fa
 
 Companies need "domain owners" who have built a "second muscle" in technology, according to McKinsey. With only 5% of senior leaders having held technical roles, these executives are vital for aligning data, platforms, and engineering talent to deliver successful AI transformations. [link](https://www.mckinsey.com/capabilities/quantumblack/our-insights/building-the-ai-muscle-of-your-business-leaders){:target="_blank" rel="noopener noreferrer"}
 
-![Expected Economic Impact]({% link assets/images/newsletter-2026-01/anthropic_econ-impact.png %}){: style="border: 1px solid #2E8B57;"}
+![Expected Economic Impact]({% link assets/images/newsletter-2026-01/anthropic_econ-impact.png %}){: style="border: 1px solid #2E8B57; width: 67%; display: block; margin: 0 auto;"}
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Source: Anthropic
@@ -66,7 +66,7 @@ Exemplifying the above trend, Pinterest and Airbnb have fine-tuned open-weight m
 
 OpenAI reports that technology, healthcare, and manufacturing are the fastest-growing AI adopters, with the tech sector surging 11x year-over-year. While professional services and finance continue to lead in absolute scale, a widening divide shows "frontier" firms now send twice as many messages per seat as the median enterprise. [link](https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf){:target="_blank" rel="noopener noreferrer"}
 
-![AI Implementation by Sector]({% link assets/images/newsletter-2026-01/openai-fastest-sectors.png %}){: style="border: 1px solid #2E8B57;"}
+![AI Implementation by Sector]({% link assets/images/newsletter-2026-01/openai-fastest-sectors.png %}){: style="border: 1px solid #2E8B57; width: 67%; display: block; margin: 0 auto;"}
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Source: Anthropic
