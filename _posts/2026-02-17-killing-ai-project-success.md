@@ -1,6 +1,6 @@
 ---
 title: "When Killing an AI Project Is the Right Call"
-date: 2026-03-09 09:00:00 +0000
+date: 2026-02-17 09:00:00 +0000
 categories:
   - AI-strategy
 tags:
