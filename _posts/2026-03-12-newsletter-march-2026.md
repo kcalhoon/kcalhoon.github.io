@@ -31,7 +31,7 @@ tags:
 
 ---
 
-!["Field of Dreams"]({% link assets/images/newsletter-2026-03/2026-03-newletter-field-dreams.png %}){: style="border: 1px solid #2E8B57; width: 67%; display: block; margin: 0 auto;"}
+!["Field of Dreams"]({% link assets/images/newsletter-2026-03/2026-03-newletter-field-dreams.png %}){: style="border: 1px solid #2E8B57; display: block; margin: 0 auto;"}
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
   Source: Gemini
@@ -71,7 +71,7 @@ The OpenClaw craze illustrates the stakes. The unleashed local agent sold out Ma
 
 ## The tide seems to be rising
 
-The ROI picture remains murky. An Andreessen Horowitz survey finds enterprise AI returns mostly hovering between 1x (breakeven) and 1.5x — a far cry from the transformative gains promised. [link](https://a16z.com/leaders-gainers-and-unexpected-winners-in-the-enterprise-ai-arms-race){:target="_blank" rel="noopener noreferrer"}
+The ROI picture remains murky. An Andreessen Horowitz survey finds enterprise AI returns mostly hovering between 1x (breakeven) and 1.5x — solid if not spectacular. [link](https://a16z.com/leaders-gainers-and-unexpected-winners-in-the-enterprise-ai-arms-race){:target="_blank" rel="noopener noreferrer"}
 
 !["a16z Enterprise AI ROI"]({% link assets/images/newsletter-2026-03/a16z-ai-roi.png %}){: style="border: 1px solid #2E8B57; width: 67%; display: block; margin: 0 auto;"}
 
