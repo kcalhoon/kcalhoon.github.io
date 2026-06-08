@@ -1,5 +1,5 @@
 ---
-title: "The $650B Build-It-and-They-Will-Come Moment in AI"
+title: "March 2026 Newsletter: The $650B Build-It-and-They-Will-Come Moment in AI"
 date: 2026-03-12 12:00:00 +0000
 categories:
   - newsletter
