@@ -1,35 +1,38 @@
 ---
-title: "No SOP, No AI Use Case"
+title: "Hello CEO: Three Prerequisites Before You Greenlight an AI Use Case"
 date: 2026-02-19 09:00:00 +0000
 categories:
+  - AI-strategy
   - AI-implementation
 tags:
-  - evals
-  - implementation
-  - enterprise
+  - SOP
   - leadership
-  - SOP # NEW SUGGESTION
+  - implementation
   - workflow
+  - program-management
+  - enterprise
 ---
 
-It's simple: no documented workflow, no AI use case.
+Most AI projects don't stall because of the technology. They stall because the business never defined what success looks like.
 
-![Checklist showing SOP, data readiness, and golden examples as prerequisites before AI development begins]({% link assets/images/where-is-the-sop.png %}){: style="border: 1px solid #2E8B57;"}
+![Three prerequisites checklist: documented workflow, confirmed data, golden examples]({% link assets/images/where-is-the-sop.png %}){: style="border: 1px solid #2E8B57;"}
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
-  Source: Ken Calhoon
+  Source: Source
 </p>
 
-A pattern I keep encountering in stalled AI projects: the business reports "the AI is outputting wrong results." Upon closer inspection, the AI is doing exactly what it was asked to do — it was just asked incorrectly. The sequence of steps is wrong, the calculations are fuzzy, the data source is off. The root cause isn't the model. It's that nobody documented what "right" looks like before development started.
+I keep seeing the same failure mode: the AI "outputs the wrong results," but it's actually doing exactly what it was told. The SOP was missing. The data was assumed. The steps were fuzzy.
 
-Teams routinely assume the model will figure out what to do without the hard work of defining success. It won't. The project pauses, developers sit idle, and the business scrambles to reverse-engineer the very workflow it should have documented upfront. Without a clear process, AI simply scales and automates existing confusion.
-
-Three prerequisites before greenlighting any use case:
+With CEOs more engaged in use case priorities, they need to insist on these three things:
 
 1. **Documented workflow with clear improvement targets.** Map the current process end to end: steps, owners, decision points. Identify specifically where AI adds value. If you can't write the SOP, the AI can't execute it.
-2. **Confirmed and accessible data.** Identify the exact systems, fields, and formats required. Verify access and accuracy before engineering begins. Assumed data availability is the fastest path to a stalled project.
-3. **Golden examples for the engineering team.** Provide real, validated outputs that represent "good." Development compresses dramatically when engineers build against concrete examples rather than iterating through ambiguous feedback loops.
 
-These three items require real investment from the business, not just the technical team. Process definition, data validation, and example curation are business responsibilities.
+2. **Confirmed and accessible data sources.** Identify the exact systems, fields, and formats required. Verify access and accuracy before engineering begins. Assumed data availability is the fastest path to a stalled project.
+
+3. **Golden examples for the engineering team.** Provide real, validated outputs that represent "good." Development speed increases dramatically when engineers build against concrete examples versus iterating through ambiguous feedback loops.
+
+The rub: these three items require real investment from the business, not just from the technical team. Process definition, data validation, and example curation are business responsibilities.
 
 AI rewards preparation. It punishes ambiguity.
+
+Do the groundwork first. The technology will follow.
